@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	-<Event Name="Завантаження Spotify">
+		<Lvl>Стандартна</Lvl>
+		<Code>435</Code>
+		<Date>1 вересня 2024</Date>
+		<Time>1250</Time>
+	</Event>
+	<Event Name="Завантаження Cyberpunk 2077">
+		<Lvl>Попередження</Lvl>
+		<Code>582</Code>
+		<Date>13 вересня 2024</Date>
+		<Time>1312</Time>
+	</Event>
+</root>
